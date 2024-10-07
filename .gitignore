@@ -70,3 +70,9 @@ gitIgnore/
 CK_Databricks/gitIgnore
 CK_Databricks/gitIgnore/
 
+toIgnore/
+/for-git-to-ignore.py
+
+toignore2/
+no_change.py
+
