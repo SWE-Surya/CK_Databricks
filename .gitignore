@@ -22,7 +22,6 @@ SWE-Surya/CK_Databricks/for-git-to-ignore.py
 
 
 
-
 # new code has been added
 
 # Compiled Java class files
@@ -66,4 +65,8 @@ Thumbs.db
 *.mov
 *.wmv
 
+gitIgnore
+gitIgnore/
+CK_Databricks/gitIgnore
+CK_Databricks/gitIgnore/
 
